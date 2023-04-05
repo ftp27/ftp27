@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Aleksei
 
-<!--
-**ftp27/ftp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ftp27&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" alt="ftp27" />
 
-Here are some ideas to get you started:
+### I'm an iOS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 Making **photo & video editing apps**
+- 🤖 Interesting in **machine learning**
+- 🚀 Constantly **learning & growing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ftp27host" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ftp27host" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aleksei-cherepanov-4a7a6589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksei-cherepanov-4a7a6589" height="30" width="40" /></a>
+</p>
