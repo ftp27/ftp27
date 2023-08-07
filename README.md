@@ -4,9 +4,8 @@
 
 ### I'm an iOS Developer
 
-- 🎬 Making **photo & video editing apps**
-- 🤖 Interesting in **machine learning**
-- 🚀 Constantly **learning & growing**
+- 🎬 Develop **photo & video editing apps**
+- 🤖 Dabble in **machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
