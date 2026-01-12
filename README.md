@@ -2,9 +2,11 @@
 
 <img align="right" src="https://github-stats.ftp27.dev/api?username=ftp27&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" alt="ftp27" />
 
-### I'm an iOS Developer
+### I'm a Software Engineer
 
 - 🎬 Develop **photo & video editing apps**
+- 🧠 Build **backend servers in Go**
+- ⚙️ Do **DevOps & infrastructure** (Docker Swarm, containers, CI/CD)
 - 🤖 Dabble in **machine learning**
 
 <h3 align="left">Connect with me:</h3>
